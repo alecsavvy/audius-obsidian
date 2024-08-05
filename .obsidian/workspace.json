@@ -28,19 +28,9 @@
                 "file": "Excalidraw/Drawing 2023-11-02 09.11.59.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "cb0277c022a0cef3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +168,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cb0277c022a0cef3",
+  "active": "3a704f2ecc552dc2",
   "lastOpenFiles": [
     "README.md",
     "Excalidraw/Drawing 2023-11-02 09.11.59.excalidraw.md",
