@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5c571f7317fd0eec",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +146,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -157,7 +170,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c1471ffd07df826",
+  "active": "5c571f7317fd0eec",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2023-11-02 09.11.59.excalidraw.md",
     "Excalidraw/Drawing 2024-08-05 13.37.15.excalidraw.md",
